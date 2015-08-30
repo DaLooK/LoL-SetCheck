@@ -29,6 +29,7 @@ Public Class Form1
             Else
                 MessageBox.Show("We couldn't get the key for the requests." + vbCrLf + "The application will close because it can't be used this way." + vbCrLf + "Check your internet connection and try again later.", "I'm sorry", MessageBoxButtons.OK, MessageBoxIcon.Error)
             End If
+            Application.Exit()
         End If
     End Sub
 

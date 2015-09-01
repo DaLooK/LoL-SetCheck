@@ -28,6 +28,26 @@ Se requiere del <b>Microsoft .Net Framework 4.5.1</b> el cual puede ser descarga
 Si estas interesado en saber cómo este programa accede a las estadísticas del juego, deberías darle un vistazo a la [Pagina de Desarrolladores de Riot Games](https://developer.riotgames.com).
 
 
+
+#### Screenshots / Capturas de pantalla
+
+Downloading assets.
+When first launched, it tries to download the assets for the champions and item images.
+
+Descargando imagenes.
+Cuándo se abre por primera vez, se intenta bajar las iamgenes de los campeones y los items.
+![](screenshots/Downloading assets.PNG)
+
+Then, you can look for a summoner in certain region, or by champion and division (this time, platinum Teemo).
+
+Entonces, puedes buscar a un invocador en cierta región, o por campeón y división (en esta ocasión, Teemo platino).
+![](screenshots/Teemo platinum.PNG)
+
+After exporting the item sets, they are loaded automatically when you play with the previously selected champion (this case, Teemo).
+
+Despues de exportar los sets de items, estos son cargados automaticamente cuándo juegas con el campeón previamente seleccionado (esta vez, Teemo).
+![](screenshots/Teeemo shop ingame.png)
+
 #### DISCLAIMER:
 
 > LoL SetCheck isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone officially involved in producing or managing League of Legends. League of Legends and Riot Games are trademarks or registered trademarks of Riot Games, Inc. League of Legends © Riot Games, Inc.
